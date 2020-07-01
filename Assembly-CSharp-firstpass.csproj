@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{16A6207A-8310-D8F6-4229-2C3BF283CDCB}</ProjectGuid>
+    <ProjectGuid>{3941E76D-3E25-A785-D9FA-5E36E342A6FA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -71,61 +71,61 @@
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>E:/Program Files (x86)/2019.2.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -310,14 +310,20 @@
  <Reference Include="UnityEditor">
  <HintPath>E:/Program Files (x86)/2019.2.14f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Analytics.Editor">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>E:/VR/Workshop/Code Template/unity - template - neu/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>E:/VR/Workshop/Code Template/1. workshop/Workshop_Template/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>E:/Program Files (x86)/2019.2.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
